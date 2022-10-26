@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    background-color: rgb(30, 76, 175);
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding: 50px;
+    gap: 25px;
+}
+
+.w-full{
+    width: 100%;
+}
+
+.h-full{
+    height: 100%;
+}
